@@ -23,7 +23,7 @@ def pantalla_inicial(opciones):
 	print('[q] Salir de la opcion.')
 	# Tomamos la respuesta
 	print('\n')
-	return input(peticion)
+	return raw_input(peticion)
 
 # def pantalla_personas(personas):
 # 	display_title_bar()
@@ -58,7 +58,7 @@ def main():
 	### MENU
 	### Aplicamos la opcion elegida
 	if modo == 0:
-		persona = input()
+		persona = raw_input('\nIntroduzca un id/nombre de referenecia: ')
 		facial.input_camera(persona)
 
 

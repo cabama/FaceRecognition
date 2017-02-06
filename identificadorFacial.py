@@ -5,8 +5,7 @@ import cv2
 
 class IdentificadorFacial:
 
-	def input_camera(self):
-		idd = raw_input('Introduzca el ID del usuario: ')
+	def input_camera(self, idd):
 		muestraInt = 0
 		detector= cv2.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml')
 		cap = cv2.VideoCapture(0)

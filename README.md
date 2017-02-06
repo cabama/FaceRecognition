@@ -1,5 +1,6 @@
 # FaceRecognition
-Reconocimiento Facial Basado en opencv
+Reconocimiento Facial Basado en opencv.
+Fuente: [thecodacus](http://thecodacus.com/opencv-python-face-detection/#.WJi_Z7bhBE4)
 
 ## Requisitos
 - Python 2.x

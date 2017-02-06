@@ -5,7 +5,7 @@ from PIL import Image
 
 recognizer = cv2.createLBPHFaceRecognizer()
 recognizer.load('trainner/trainner2.yml')
-imagen = ('dataSet/bea_0.jpg')
+imagen = ('dataSet/cola_0.jpg')
 
 predict_image_pil = Image.open(imagen).convert('L')
 predict_image = np.array(predict_image_pil, 'uint8')

@@ -8,6 +8,7 @@ detector= cv2.CascadeClassifier("haarcascade_frontalface_default.xml");
 diccionario = {}
 diccionario['carlos'] = 1
 diccionario['bea'] = 2
+diccionario['cola'] = 3
 
 def getImagesAndLabels(path):
     #get the path of all the files in the folder

@@ -1,6 +1,6 @@
 # FaceRecognition
-[ES] Reconocimiento Facial Basado en opencv.  
-[EN] Facial recognition based in opencv.  
+[ES] Reconocimiento Facial utilizando Python, basado en opencv.  
+[EN] Python Facial recognition based in opencv.  
 
 Fuente: [thecodacus](http://thecodacus.com/opencv-python-face-detection/#.WJi_Z7bhBE4)
 

@@ -20,8 +20,8 @@ pip install numpy
 
 ## Ficheros // Files
 
-[Es] Pequeños script en python creados para pruebas separadas. Ahora se encuentran en la carpeta Test.  
-[En] Small Python files used by test. They now is in the Test folder.
+[Es] Pequeños script en python creados para pruebas separadas. Ahora se encuentran en la carpeta Learn.  
+[En] Small Python files used by test. They now is in the Learn folder.
 
 - **cascade.py**  
   Identify the face with haarcascade and print it in the output windows.

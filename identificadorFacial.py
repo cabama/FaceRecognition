@@ -1,6 +1,12 @@
-
 import numpy as np
 import cv2
+
+# static LBPHFaceRecognizer   createLBPHFaceRecognizer (int radius, int neighbors, int grid_x, int grid_y, double threshold)
+# static LBPHFaceRecognizer   createLBPHFaceRecognizer ()
+# static EigenFaceRecognizer  createEigenFaceRecognizer (int num_components, double threshold)
+# static EigenFaceRecognizer  createEigenFaceRecognizer ()
+# static FisherFaceRecognizer createFisherFaceRecognizer (int num_components, double threshold)
+# static FisherFaceRecognizer createFisherFaceRecognizer ()
 
 
 class IdentificadorFacial:

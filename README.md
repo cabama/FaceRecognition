@@ -26,7 +26,7 @@ pip install numpy
 - **cascade.py**  
   Identify the face with haarcascade and print it in the output windows.
 - **dataSetGenerator.py**  
-  Use the webcam take 20 pictures, cut the face and save the files.
+  Use the webcam for taking 20 pictures, cut the face of this and save the files.
 - **train.py**   
   This script loads the pictures of dataSetGenerator, train the classificator and write the classifications results.
 - **identify.py**   

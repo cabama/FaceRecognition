@@ -20,7 +20,7 @@ pip install numpy
 
 ## Ficheros // Files
 
-[Es] Pequeños script en python creados para pruebas separadas. Ahora se encuentran en la carpeta Test
+[Es] Pequeños script en python creados para pruebas separadas. Ahora se encuentran en la carpeta Test.  
 [En] Small Python files used by test. They now is in the Test folder.
 
 - **cascade.py**  
